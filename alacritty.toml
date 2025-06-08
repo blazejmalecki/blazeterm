@@ -1,0 +1,13 @@
+[window]
+dimensions = { columns = 120, lines = 40 }
+
+[font]
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
+size = 14
+
+[colors]
+[colors.primary]
+background = "#262626"
+
+[env]
+TERM = "alacritty"
