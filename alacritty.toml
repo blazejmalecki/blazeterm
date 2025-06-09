@@ -7,7 +7,7 @@ size = 14
 
 [colors]
 [colors.primary]
-background = "#262626"
+background = "#303030"
 
 [env]
 TERM = "alacritty"
