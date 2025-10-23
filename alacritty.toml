@@ -11,3 +11,4 @@ background = "#303030"
 
 [env]
 TERM = "alacritty"
+
